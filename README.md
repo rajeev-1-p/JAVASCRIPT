@@ -1,2 +1,2 @@
 # JAVASCRIPT
-Learning javascript from scratch again
+javaScript projects repo
